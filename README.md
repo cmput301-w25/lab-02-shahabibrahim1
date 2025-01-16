@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Shahab Ibrahim`
+- **CCID:** `1764200`
 
 ## References and Resources
 
