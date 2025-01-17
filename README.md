@@ -4,11 +4,11 @@
 ## Student Details
 
 - **Full Name:** `Shahab Ibrahim`
-- **CCID:** `1764200`
+- **CCID:** `sibrahi1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+N/A
 
 ## Verbal Collaboration
 
